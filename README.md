@@ -5,7 +5,8 @@ Install pip [<https://bootstrap.pypa.io/get-pip.py>]
 
 Install Chocolatley
 In admin-powershell
-```{Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+```
+{Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
 Next you need to know your <api_id> and <api_hash>. [<https://my.telegram.org/> -> "Sign in" -> <API Development Tools> -> <App title: "Github"> -> <Short name: "Githubb"> -> <Platform: "Desktop"> -> <Create application>]
