@@ -18,3 +18,7 @@ With opening telegram
 4. Edit [Telegram.bat] and replace "<api_id>" and "<api_hash>" on the last line with your symbols.
 
 5. Open [Telegram.bat] from desktop.
+
+  
+  
+  #https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
