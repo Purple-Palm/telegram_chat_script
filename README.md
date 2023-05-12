@@ -14,6 +14,7 @@ In powershell opened as administrator run this command
 ```
 ## Creating telegram app
 Next you need to know your <api_id> and <api_hash>. 
+
 Go to https://my.telegram.org/ -> enter your phone number -> click `API Development Tools` -> in `App title` write `Github` -> in `Short name` wriet `Githubb` -> in `Platform` choose `Desktop` -> click `Create application`
 After that you will see two labels: `App api_id:` and `App api_hash:`. 
 <sub>Keep this site open</sub>
