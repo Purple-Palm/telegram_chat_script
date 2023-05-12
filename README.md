@@ -2,6 +2,7 @@
 
 ## Installing python stuff
 Install python from official site https://www.python.org/downloads/
+
 Install pip https://bootstrap.pypa.io/get-pip.py
 
 Install Chocolatley
