@@ -4,9 +4,9 @@
 Install python https://www.python.org/downloads/
 
 Install pip https://bootstrap.pypa.io/get-pip.py
+   - Right click -> Save -> Open downloads folder -> in PATH-bar just write `cmd` and press Enter -> in console write `python get-pip.py`
 
-
-Install Chocolatley
+Install Chocolatey
 In powershell opened as administrator run this command
 ```
 {Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
