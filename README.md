@@ -18,7 +18,7 @@
 
 This step is to get your <api_id> and <api_hash>. 
 
-> Go to https://my.telegram.org/ -> enter your phone number -> click `API Development Tools` -> in `App title` write `Github` -> in `Short name` wriet `Githubb` -> in `Platform` choose `Desktop` -> click `Create application`
+> Go to https://my.telegram.org/ -> enter your phone number -> click `API Development Tools` -> in `App title` write `Github` -> in `Short name` write `Githubb` -> in `Platform` choose `Desktop` -> click `Create application`
 After that you will see two labels: `App api_id:` and `App api_hash:`. 
 
 <sub>Keep this site open</sub>
