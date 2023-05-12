@@ -1,9 +1,10 @@
 # Telegram Chat Script
 
 ## Installing python stuff
-Install python from official site https://www.python.org/downloads/
+Install python https://www.python.org/downloads/
 
 Install pip https://bootstrap.pypa.io/get-pip.py
+
 
 Install Chocolatley
 In powershell opened as administrator run this command
