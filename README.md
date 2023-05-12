@@ -1,4 +1,4 @@
-# telegram_chat_script
+# Telegram Chat Script
 
 Install python from official site
 Install pip https://bootstrap.pypa.io/get-pip.py
