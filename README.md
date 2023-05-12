@@ -1,6 +1,7 @@
 # Telegram Chat Script
 
-Install python from official site
+## Installing python stuff
+Install python from official site https://www.python.org/downloads/
 Install pip https://bootstrap.pypa.io/get-pip.py
 
 Install Chocolatley
@@ -8,12 +9,13 @@ In powershell opened as administrator run this command
 ```
 {Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
-
+## Creating telegram app
 Next you need to know your <api_id> and <api_hash>. 
 Go to https://my.telegram.org/ -> enter your phone number -> click `API Development Tools` -> in `App title` write `Github` -> in `Short name` wriet `Githubb` -> in `Platform` choose `Desktop` -> click `Create application`
 After that you will see two labels: `App api_id:` and `App api_hash:`. 
 <sub>Keep this site open</sub>
 
+## Preparing to run
 1. Then download .zip file from repository.
 
 2. Extract folder and open.
@@ -29,6 +31,6 @@ After that you will see two labels: `App api_id:` and `App api_hash:`.
 
 6. Open `INSTALL-FIRST.bat` and in console type `Y`.
 
-7. Edit `Telegram.bat` -> copy `App api_id:` and `App api_hash:` and replace `<api_id>` and `<api_hash>` with these numbers.
+7. Edit `Telegram.bat` -> copy `App api_id:` and `App api_hash:`, and replace `<api_id>` and `<api_hash>` with these numbers.
 
 8. Open `Telegram.bat` from desktop.
