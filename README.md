@@ -1,28 +1,34 @@
 # telegram_chat_script
 
-Install python 
-Install pip [<https://bootstrap.pypa.io/get-pip.py>]
+Install python from official site
+Install pip https://bootstrap.pypa.io/get-pip.py
 
 Install Chocolatley
-In admin-powershell
+In powershell opened as administrator run this command
 ```
 {Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
-Next you need to know your <api_id> and <api_hash>. [<https://my.telegram.org/> -> "Sign in" -> <API Development Tools> -> <App title: "Github"> -> <Short name: "Githubb"> -> <Platform: "Desktop"> -> <Create application>]
+Next you need to know your <api_id> and <api_hash>. 
+Go to https://my.telegram.org/ -> enter your phone number -> click `API Development Tools` -> in `App title` write `Github` -> in `Short name` wriet `Githubb` -> in `Platform` choose `Desktop` -> click `Create application`
+After that you will see two labels: `App api_id:` and `App api_hash:`. 
+<sub>Keep this site open</sub>
 
-With opening telegram
+1. Then download .zip file from repository.
 
-1. Move everything in telegram folder.
+2. Extract folder and open.
 
-2. Send to [Telegram.bat] on desktop.
+3. Press `Ctrl + A` to select all files and `Ctrl + C` to copy them. 
 
-3. Open [INSTALL-FIRST.bat] in console accept everything.
-
-4. Edit [Telegram.bat] and replace "<api_id>" and "<api_hash>" on the last line with your symbols.
-
-5. Open [Telegram.bat] from desktop.
-
+4. Paste everything to the Telegram folder:
+   - On desktop right button on `Telegram` shortcut -> Open file lication -> `Ctrl + V`.
    
-  
-  #https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+   - Go to disk where your Telegram located -> Users -> <your user name> -> AppData -> Roaming -> Telegram Desktop -> `Ctrl + V`.
+
+5. Create a shortcut of `Telegram.bat` and put it on desktop.
+
+6. Open `INSTALL-FIRST.bat` and in console type `Y`.
+
+7. Edit `Telegram.bat` -> copy `App api_id:` and `App api_hash:` and replace `<api_id>` and `<api_hash>` with these numbers.
+
+8. Open `Telegram.bat` from desktop.
