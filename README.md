@@ -44,3 +44,9 @@ After that you will see two labels: `App api_id:` and `App api_hash:`.
 3. Type in messagebar `.` command (for example `.heart`).
 
 4. Press enter and watch the process.
+
+## :globe_with_meridians: How to change language
+
+You can change language of translation. You can see translated text in console tab after code launch.
+
+Go to your Telegram root folder -> data -> languages -> edit choose-language.yml and change `'en'` in ```yml language: 'en' ```to the one of listed letters below.
