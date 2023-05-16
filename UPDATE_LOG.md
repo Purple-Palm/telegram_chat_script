@@ -15,3 +15,5 @@ This is first public version of this script
 
 + Command `.minecraft <text>`
   > Makes animation of appearing minecraft block and then sends written text
+
+
