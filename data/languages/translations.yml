@@ -1,0 +1,89 @@
+#Main translation language
+en:
+    #Settings window translation
+    settings-window-title: "Language settings"
+    label-text: "Choose your language:"
+    agree-button: "Set language"
+    
+    error-title: "ERROR"
+    error-message1: "Failed to execute command"
+    error-message2: "little cacti protect you from the flood"
+    text-word: "text"
+    urgay: "ur gay)"
+    script-successfully-launched: "Script successfully lauched!"
+    version: "Version: "
+    command-list: "COMMAND LIST"
+    command-guide: "'.' - is a prefix, [text] - text is requied, <text> - text is not requied\n"
+    share-command: "- shares our link to download this script\n"
+    typing-command: "- types entered text by every letter\n"
+    heart-command: "- animation with changing emojis in heart form and sends written text after that\n"
+    zig-command: "- animation with changing emojis in svastika form and sends written text after that\n"
+    minecraft-command: "- animation appearing minecraft block and sends written text after that\n"
+    sheep-command: "- animation with minecraft sheep and sends written text after that\n"
+
+#Russian translation Русский перевод
+ru:
+    #Settings window translation
+    settings-window-title: "Настройки языка"
+    label-text: "Выберите свой язык:"
+    agree-button: "Установить язык"
+    
+    error-title: "ОШИБКА"
+    error-message1: "Не удалось выполнить команду"
+    error-message2: "маленькие кактусята защищают тебя от флуда"
+    text-word: "текст"
+    urgay: "ты гей)"   #easter egg
+    script-successfully-launched: "Скрипт успешно запущен!"
+    version: "Версия: "
+    
+    command-list: "СПИСОК КОМАНД"
+    command-guide: "'.' - префикс, [текст] - текст обязателен, <текст> - текст не обязателен\n"
+    share-command: "- отправляет ссылку на скачивание этого скрипта\n"
+    typing-command: "- пишет заданный текст по буквам\n"
+    heart-command: "- анимация с меняющимеся эмодзи в форме сердца и отправляет вписанный текст после этого\n"
+    zig-command: "- анимация с меняющимеся эмодзи в форме свастики и отправляет вписанный текст после этого\n"
+    minecraft-command: "- анимация с появлением майнкрафт блока с разными эмодзи и отправляет вписанный текст после этого\n"
+    sheep-command: "- анимация с появлением овцы из майнкрафта и отправляет текст после этого\n"
+   
+#Ukrainian translation Український переклад 
+uk:
+    #Settings window translation
+    settings-window-title: "Налаштування мови"
+    label-text: "Оберіть свою мову:"
+    agree-button: "Встановити мову"
+    
+    error-title: "ПОМИЛКА"
+    error-message1: "Не вдалося виконати команду"
+    error-message2: "маленькі кактуси захищають вас від флуду"
+    text-word: "текст"
+    urgay: "ти гей)"
+    script-successfully-launched: "Скрипт успішно запущений!"
+    version: "Версія: "
+    command-list: "СПИСОК КОМАНД"
+    command-guide: "'.' - префікс, [текст] - текст обов'язковий, <текст> - текст не обо'язковий\n"
+    share-command: "- поширює посилання на скачування цього скрипту\n"
+    typing-command: "- пише заданий текст по буквам\n"
+    heart-command: "- анімація зі змінюванням емодзі у формі серця та вставляє заданий текст після цього\n"
+    zig-command: "- анімація зі змінюванням емодзі у формі свастики та вставляє заданий текст після цього\n"
+    minecraft-command: "- анімація з появою майкрафт блоку з різними емодзі та вставляє заданий текст після цього\n"
+    sheep-command: "- анімація з появою вівці з майнкрафту та вставляє заданий текст після цього\n"
+    
+
+#Spanish translation 
+es:
+
+    error-title: "ERROR"
+    error-message1: "Fallo al ejecutar el comando"
+    error-message2: "pequeños cactus te protegen de la flood"
+    text-word: "texto"
+    urgay: "eres gay)"
+    script-successfully-launched: "¡Script lanzado con éxito!"
+    version: "Versión: "
+    command-list: "LISTA DE COMANDOS"
+    command-guide: "'.' - es un prefijo, [texto] - se requiere texto, <texto> - no se requiere texto\n"
+    share-command: "- comparte nuestro enlace para descargar este script\n"
+    typing-command: "- escribe el texto ingresado letra por letra\n"
+    heart-command: "- animación con emojis cambiantes en forma de corazón y envía el texto escrito después de eso\n"
+    zig-command: "- animación con emojis cambiantes en forma de esvástica y envía el texto escrito después de eso\n"
+    minecraft-command: "- animación que muestra un bloque de Minecraft y envía el texto escrito después de eso\n"
+    sheep-command: "- animación con oveja de Minecraft y envía el texto escrito después de eso\n"
