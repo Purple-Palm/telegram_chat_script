@@ -1,6 +1,6 @@
 # Telegram Chat Script
 
-## How to install
+## :arrow_down: How to install
 **1. Install python and pip**
 > 1) Install [python](https://www.python.org/downloads/)
 > 
@@ -35,7 +35,7 @@ After that you will see two labels: `App api_id:` and `App api_hash:`.
 6. Open `Telegram.bat`.
 
 
-## How to use?
+## :electric_plug: How to use?
 
 1. Launch the script and wait until it completely launched.
 
