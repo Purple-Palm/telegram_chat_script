@@ -10,3 +10,7 @@ A simple Python script for beautiful text animations in Telegram that have many 
 
    ### How to clone repo?
    [How to clone repo](How_to_clone_repo.md)
+
+
+# FAQ
+   empty
