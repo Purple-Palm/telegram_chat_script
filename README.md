@@ -34,3 +34,13 @@ After that you will see two labels: `App api_id:` and `App api_hash:`.
 
 6. Open `Telegram.bat`.
 
+
+## How to use?
+
+1. Launch the script and wait until it completely launched.
+
+2. Open Telegram on your PC/Lalptop/Phone or device where you logged in with your account.
+
+3. Type in messagebar `.` command (for example `.heart`).
+
+4. Press enter and watch the process.
