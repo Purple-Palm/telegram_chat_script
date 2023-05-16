@@ -10,7 +10,7 @@ A simple Python script for beautiful text animations in Telegram that have many 
    [How to clone repo](How_to_clone_repo.md)
    
 # Our discord
-[Join](https://discord.gg/7YcpGBYAYy)   
+[JOIN](https://discord.gg/7YcpGBYAYy)   
    
 ## Supports
 **Windows 11/10/8/7**
