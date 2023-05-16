@@ -24,7 +24,7 @@ After that you will see two labels: `App api_id:` and `App api_hash:`.
 <sub>Keep this site open</sub>
 
 ### Preparing for the first launch
-1. [Clone](How_to_clone_repo.md) the repository/download the Release and extract .zip into the root folder of the Telegram.
+1. [Clone](How_to_clone_repo.md) the repository/download the .zip from release section and extract .zip into the root folder of the Telegram.
 
 3. Create a shortcut to the `Telegram.bat` file and send it to the desktop.
 
