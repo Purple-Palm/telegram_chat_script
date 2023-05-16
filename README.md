@@ -1,8 +1,6 @@
 # Telegram Chat Script
 A simple Python script for beautiful text animations in Telegram that have many animation types and language settings.
 
-## Supports
-**Windows 11/10/8/7**
 
 # :arrow_down: HOW TO
    ### How to install?
@@ -10,6 +8,12 @@ A simple Python script for beautiful text animations in Telegram that have many 
 
    ### How to clone repo?
    [How to clone repo](How_to_clone_repo.md)
+   
+# Our discord
+[Join](https://discord.gg/7YcpGBYAYy)   
+   
+## Supports
+**Windows 11/10/8/7**
 
 
 # FAQ
