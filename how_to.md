@@ -5,7 +5,7 @@
 > 1) Install [python](https://www.python.org/downloads/)
 > 
 > 2) Install [pip](https://bootstrap.pypa.io/get-pip.py)
->     - Right click -> Save -> Open downloads folder -> in PATH-bar just write `cmd` and press Enter -> in console write `python get-pip.py`
+>     - Right click -> Save -> Open cmd -> cd to folder with pip installed -> in console write `python get-pip.py`
 
 
 
