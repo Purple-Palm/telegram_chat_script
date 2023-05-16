@@ -270,8 +270,7 @@ minecraft_emoji = [                 #pattern of animation
     "🟩 🟩 🟩 🟩 🟩\n🟫 🟫 🟫 🟫 🟫\n🟫 🟫 🟫 🟫 🟫\n🟫 🟫 🟫 🟫 🟫",
     "🟩 🟩 🟩 🟩 🟩\n🟫 🟫 🟫 🟫 🟫\n🟫 🟫 🟫 🟫 🟫",
     "🟩 🟩 🟩 🟩 🟩\n🟫 🟫 🟫 🟫 🟫",
-    "🟩 🟩 🟩 🟩 🟩",
-    "⠀"
+    "🟩 🟩 🟩 🟩 🟩"
 ]
 
 @client.on(events.NewMessage(pattern=".minecraft+"))                #.minecraft+ means that after the command you can put the text that will be displayed 
