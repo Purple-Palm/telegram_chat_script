@@ -17,4 +17,8 @@ A simple Python script for beautiful text animations in Telegram that have many 
 
 
 # FAQ
-   empty
+   > Is that PC only?
+   **You need PC/Laptop with Windows to run this script.**
+
+   > How to use it on phone?
+   **Because of TelegramAPI you can use commands on your phone while it runs on your PC.**
