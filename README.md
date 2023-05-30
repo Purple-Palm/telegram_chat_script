@@ -1,4 +1,4 @@
-https://img.shields.io/discord/1105322344253235291?color=aqua%20&label=Discord&logo=discord&style=plastic
+![Discord](https://img.shields.io/discord/1105322344253235291?color=aqua%20&label=Discord&logo=discord&style=plastic)
 # Telegram Chat Script
 A simple Python script for beautiful text animations in Telegram that have many animation types and language settings.
 [Update log.](UPDATE_LOG.md)
