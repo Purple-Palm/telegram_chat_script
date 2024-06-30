@@ -13,7 +13,7 @@ Guide on installing the script can be found in the [How to Install](how_to.md) d
 
 ### Cloning the Repository
 
-To clone this repository using Git, follow the instructions provided in the [How to Clone Repo](How_to_clone_repo.md) document.
+To clone this repository using Git, follow the instructions provided in the [How to Clone Repo](How_to_clone_repo.md) document
 
 ## Join Our Community
 
