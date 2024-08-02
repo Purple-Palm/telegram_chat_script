@@ -1,0 +1,58 @@
+# This is config file for Heart Animation (.heart)
+# You can change emoji used, their order
+# You can add different pattern of the heart
+
+
+#List of emoji that used in animation  '1 - 2'
+# 1's in patterns below will be replaced with every first/left emoji
+# 2's in patterns below will be replaced with every second/right emoji
+emoji: 
+  - ✨-💎
+  - ✨-🌺
+  - ☁️-😘
+  - ✨-🌸
+  - 🌾-🐸
+  - 🔫-💥
+  - ☁️-💟
+  - 🍀-💖
+  - 🌴-🐼
+  - 🟥-⬛
+
+
+# Patterns
+animation:
+  small:
+      - 1 1 1 1 1 1 1     
+      - 1 1 2 1 2 1 1
+      - 1 2 2 2 2 2 1
+      - 1 2 2 2 2 2 1
+      - 1 1 2 2 2 1 1
+      - 1 1 1 2 1 1 1
+      - 1 1 1 1 1 1 1
+
+  normal:
+      - 1 1 1 1 1 1 1 1 1
+      - 1 1 2 2 1 2 2 1 1
+      - 1 2 2 2 2 2 2 2 1
+      - 1 2 2 2 2 2 2 2 1
+      - 1 1 2 2 2 2 2 1 1
+      - 1 1 1 2 2 2 1 1 1
+      - 1 1 1 1 2 1 1 1 1
+      - 1 1 1 1 1 1 1 1 1
+
+  large:
+      - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+      - 1 1 1 1 2 2 2 1 1 1 2 2 2 1 1 1 1
+      - 1 1 1 2 2 2 2 2 1 2 2 2 2 2 1 1 1
+      - 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1
+      - 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1
+      - 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1
+      - 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1
+      - 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1
+      - 1 1 1 2 2 2 2 2 2 2 2 2 2 2 1 1 1
+      - 1 1 1 1 2 2 2 2 2 2 2 2 2 1 1 1 1
+      - 1 1 1 1 1 2 2 2 2 2 2 2 1 1 1 1 1
+      - 1 1 1 1 1 1 2 2 2 2 2 1 1 1 1 1 1
+      - 1 1 1 1 1 1 1 2 2 2 1 1 1 1 1 1 1
+      - 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1
+      - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1

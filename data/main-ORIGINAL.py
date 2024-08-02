@@ -67,8 +67,8 @@ print(
         + " | " + colored(orange, "Id: ") + str(MY_ID)                      #prints 'Id' text in orange color and your telegram account id  
         + " | " + colored(orange, "Uname: ") + "@" + str(entity.username)   #prints your telegram account username
         + "]"
-        + colored(black1, "        ur gay)")                                #easter egg) don't be mad
-)
+        + colored(black1, "        ur gay)"))                                #easter egg don't be mad
+
 print(             
         colored(green, "✓ ")                                                #prints green checkmark
         + translations[lang]['script-successfully-launched']                #prints 'Script successfully lauched' text
@@ -270,7 +270,8 @@ minecraft_emoji = [                 #pattern of animation
     "🟩 🟩 🟩 🟩 🟩\n🟫 🟫 🟫 🟫 🟫\n🟫 🟫 🟫 🟫 🟫\n🟫 🟫 🟫 🟫 🟫",
     "🟩 🟩 🟩 🟩 🟩\n🟫 🟫 🟫 🟫 🟫\n🟫 🟫 🟫 🟫 🟫",
     "🟩 🟩 🟩 🟩 🟩\n🟫 🟫 🟫 🟫 🟫",
-    "🟩 🟩 🟩 🟩 🟩"
+    "🟩 🟩 🟩 🟩 🟩",
+    " "
 ]
 
 @client.on(events.NewMessage(pattern=".minecraft+"))                #.minecraft+ means that after the command you can put the text that will be displayed 

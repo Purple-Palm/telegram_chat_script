@@ -1,0 +1,33 @@
+# USA English language translation file
+
+word-seconds: "seconds" # is used as a example of command argument indended for amount of seconds 
+word-size: "size" # is used as a example of command argument indended for size 
+word-text: "text" # is used as a example of command argument indended for text input
+
+script-successfully-launched: "Script successfully lauched!"
+version: "Version: "
+
+commands:
+  commands-title: "COMMANDS LIST" 
+  syntax-guide: "'.' - is a prefix, <> is not required, [] is required.\n
+  <speed=[{0}]> - speed of the animation in seconds (defaults in the config),\n 
+  <size=[{1}]> - size of the animation. (defaults in the config),\n
+  [{2}] - text is requied, <{2}> - text is not requied"
+                                                       
+  share-command: "- shares our link to download this script"
+  typing-command: "- types entered text by every letter"
+  heart-command: "- animation with changing emojis in heart shape and sends written text after that"
+  zig-command: "- animation with changing emojis in svastika shape and sends written text after that"
+  minecraft-command: "- animation appearing minecraft block and sends written text after that"
+  sheep-command: "- animation with minecraft sheep and sends written text after that"
+
+  command-issued: "User issued command: "
+  command-done: "Done!"
+
+errors:
+  error-title: "ERROR"
+  warning-title: "WARNING"
+  wrong-command: "Failed to execute command"
+  wrong-language: "Failed to load a language file. Pulling up default one (English)" 
+  flood-error: "little cacti protect you from the flood! Try again later."
+  invalid-size: "Invalid size {}. Default will be used." # {} is placeholder for specific command. Please don't remove.

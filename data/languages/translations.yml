@@ -1,5 +1,10 @@
 #Main translation language
 en:
+    #Settings window translation
+    settings-window-title: "Language settings"
+    label-text: "Choose your language:"
+    agree-button: "Set language"
+    
     error-title: "ERROR"
     error-message1: "Failed to execute command"
     error-message2: "little cacti protect you from the flood"
@@ -18,6 +23,11 @@ en:
 
 #Russian translation Русский перевод
 ru:
+    #Settings window translation
+    settings-window-title: "Настройки языка"
+    label-text: "Выберите свой язык:"
+    agree-button: "Установить язык"
+    
     error-title: "ОШИБКА"
     error-message1: "Не удалось выполнить команду"
     error-message2: "маленькие кактусята защищают тебя от флуда"
@@ -37,6 +47,11 @@ ru:
    
 #Ukrainian translation Український переклад 
 uk:
+    #Settings window translation
+    settings-window-title: "Налаштування мови"
+    label-text: "Оберіть свою мову:"
+    agree-button: "Встановити мову"
+    
     error-title: "ПОМИЛКА"
     error-message1: "Не вдалося виконати команду"
     error-message2: "маленькі кактуси захищають вас від флуду"
@@ -56,6 +71,7 @@ uk:
 
 #Spanish translation 
 es:
+
     error-title: "ERROR"
     error-message1: "Fallo al ejecutar el comando"
     error-message2: "pequeños cactus te protegen de la flood"

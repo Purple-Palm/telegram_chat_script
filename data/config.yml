@@ -1,0 +1,46 @@
+# Script by Cactus and VGSS_
+
+version: '2.2.1'
+
+language: 'en_us'
+# List of default languages:
+# en_us - English
+# es_sp - Español
+# ua_uk - Українська (Ukrainian)
+# ru_ru - Русский (Russian)
+
+share:
+  command: ".share"
+
+typing:
+  command: ".t"
+  animation_speed: 0.1  #In seconds
+  typing_symbol: "_"
+
+heart_animation:
+  command: ".heart"
+  animation_speed: 1 #In seconds
+  size: "normal"
+  sizeList:
+    - "small"
+    - "normal"
+    - "large"
+
+zig_animation:
+  command: ".zig"
+  animation_speed: 1
+  size: "normal"
+  sizeList:
+    - "small"
+    - "normal"
+    - "large"
+
+minecraft_animation:
+  command: ".minecraft"
+  animation_speed: 1 #In seconds
+
+sheep_animation:
+  command: ".sheep"
+  animation_speed: 1
+
+
