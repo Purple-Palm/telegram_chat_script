@@ -19,7 +19,7 @@ To clone this repository using Git, follow the instructions provided in the [How
 
 Connect with fellow users and get support on our Discord server:
 
-[![Discord](https://img.shields.io/discord/1105322344253235291?color=green%2&label=Discord&logo=discord&style=plastic)](https://discord.gg/7YcpGBYAYy)
+[![Discord](https://img.shields.io/discord/1105322344253235291?color=green%2&label=Discord&logo=discord&style=plastic)](https://discord.gg/dzqeXYDDmy)
 
 ## Supported Operating Systems
 
