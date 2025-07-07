@@ -1,5 +1,5 @@
 
-# Telegram Chat Script
+# Telegram Chat FX
 
 This Python script empowers you to create visually captivating text animations within Telegram chats, offering a range of animation styles and language support.
 
